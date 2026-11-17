@@ -1,39 +1,119 @@
-<!-- THE FILE IS NOT THE PORTRAIT. THE FILE IS THE SENSOR. -->
+<!--
+RBD/0110 — TERMINAL ENTRY.
+No raster images, SVG assets, badges, cards, or third-party trackers.
+The dynamic region is built by scripts/heartbeat.py.
+-->
 
-<div align="left">
+# `RBD/0110`
 
-![RBD/0110 — an orbital anomaly instead of a developer biography; generated from a sampled public signal.](./assets/cover.svg)
-
-![Operational dogma, etched into a procedural fingerprint.](./assets/manifest.svg)
-
-![Live-derived, not live: a public-signal sampling and mathematically generated waveform.](./assets/telemetry.svg)
-
-</div>
-
-<details>
-<summary>▸ ACCESS THE BLACK BOX / DECONSTRUCTION PROTOCOL</summary>
+**`A PERSON IS NOT A README.`**
 
 ```text
-rbd@unknown:~$ cat /proc/self/identity
-E:IDENTITY_NOT_FOUND
-
-rbd@unknown:~$ fsck /dev/assumptions
-[01] Defaults are unexamined decisions.
-[02] An error message is a map of a boundary.
-[03] Disassemble the assumption, not the evidence.
-
-rbd@unknown:~$ systemctl status specimen
-● rbd-0110.service — a periodic refusal to be summarized
-   Source: sampled, public GitHub events
-   Shape: mathematical; never a downloaded image
-   Phase: approximate lunar cycle
-   Window: UTC / every six hours, schedule best-effort
-   Exposure: no repository names, no private contribution data
-   State: synthesized, not streaming
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃   /DEV/UNKNOWN      ● 0110   ┃
+┃                              ┃
+┃   █▀█ █▄▄ █▀▄               ┃
+┃   █▀▄ █▄█ █▄▀   / 0 1 1 0  ┃
+┃                              ┃
+┃   NO BIOGRAPHY FOUND.        ┃
+┃   SYSTEM STILL RESPONDING.   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-`git show --format=fuller` → [the synthesis engine](./scripts/synthesize.py) · [regeneration contract](./.github/workflows/reconstitute.yml)
+> `IDENTITY` is a user-facing abstraction. `BEHAVIOR` is the underlying implementation.
+
+### **[ ENTER THE MACHINE ↗ ](https://robdroid0110.github.io/robdroid0110/)**
+
+Not a photograph. Not a hosted animation. A running experiment: **move, perturb, invert, or rewrite its geometry.** Source is in [`docs/`](./docs/).
+
+---
+
+<!-- RBD:STATE:BEGIN -->
+
+```text
+┌─ /PROC/0110 ────────────────┐
+│ UTC      2026-11-17 19:30Z│
+│ SOURCE   UNOBSERVED       │
+│ EVENTS   0                │
+│ PUSHES   0                │
+│ LUNAR    26% (estimate)   │
+└────────────────────────────┘
+
+ INTERFERENCE FIELD / SYNTHETIC
+    :+##*=:    -+**+=:...:-==-
+ .:-====--:::---=+**++--::-=++
+ ***=:  .-=+=-:...:-==-:.   .-
+ +*+-    :-----====++****=:.  
+ :===:. .:-::-**=-:..:=+###*=:
+ :=+*+=-::--=     *+-:..:=***=
+ .:=+###+=-:..:=+--==-.   :==-
+ .  .:=*###*+=-:..:=+=:   .-=+
+ =-.   .:-=+=-:...:-=--::-====
+ **+=:..:-=*##*+-:. .:-+***=: 
+ :=++=:...:=+**=:    :=*#*=:  
+
+ SEED   903597
+ MODE   TEXT, NOT AN IMAGE
+```
+
+*This is a six-hour snapshot. The interference field is synthesized from a time bucket and public activity counts; it does not represent individual commits.*
+<!-- RBD:STATE:END -->
+
+<details>
+<summary><b>▸ 01 / OPEN THE CASE</b></summary>
+
+```text
+$ cat /proc/identity
+NO_STABLE_DESCRIPTOR
+
+$ examine --assumptions
+[!] A default is an unreviewed decision.
+[!] Every interface hides a boundary.
+[!] Every boundary has a failure mode.
+
+$ status
+INCOMPLETE_BY_DESIGN
+```
+
+**No inventory, no manufactured expertise, no fictional accomplishments.**
 
 </details>
 
-<!-- RBD/0110 // eof // STATIC IS A FAILURE MODE -->
+<details>
+<summary><b>▸ 02 / ENTER THE FALSE TERMINAL</b></summary>
+
+```text
+$ whoami
+permission denied: identity is mutable
+
+$ sudo inspect reality
+refusing to accept the defaults
+
+$ cat /etc/intent
+break assumptions;
+measure consequences;
+rebuild the system;
+repeat;
+```
+
+The commands above are narrative, not executable on GitHub. The [machine](https://robdroid0110.github.io/robdroid0110/) has actual interactive controls.
+
+</details>
+
+<details>
+<summary><b>▸ 03 / VERIFY THE SIGNAL</b></summary>
+
+```text
+SENSOR    public GitHub events only
+SOURCE    GitHub REST API
+REBUILD   6-hour cron (best effort)
+NOISE     deterministic, not "live"
+PRIVATE   excluded
+TRACKING  zero
+```
+
+Read the [signal compiler](./scripts/heartbeat.py), [workflow](./.github/workflows/reconstitute.yml), or [public signal snapshot](./data/last_signal.json).
+
+</details>
+
+<sub>`THIS IS NOT A PORTFOLIO · THIS IS AN OPEN CIRCUIT · RBD/0110`</sub>

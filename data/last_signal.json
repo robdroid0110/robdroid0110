@@ -1,9 +1,9 @@
 {
   "activity_days": 2,
   "feed_status": "sampled",
-  "lunar_phase": 0.43602,
+  "lunar_phase": 0.4451,
   "push_count": 4,
   "sample_size": 11,
-  "sampled_at": "2026-11-22T18:59:05Z",
-  "seed": 272130
+  "sampled_at": "2026-11-23T01:25:32Z",
+  "seed": 389734
 }
